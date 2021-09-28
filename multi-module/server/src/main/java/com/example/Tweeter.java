@@ -10,7 +10,6 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-Fault Injected Here
   }
 
   //TODO: Add javadoc comment
